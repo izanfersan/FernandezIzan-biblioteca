@@ -16,3 +16,5 @@ java -cp out Main
 5. Ejecuta los tests de test/PrestamoTest.java con JUnit 5. 
 ## Autor 
 ApellidoNombre 
+
+Version 1.1
